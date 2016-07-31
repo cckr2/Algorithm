@@ -1,2 +1,16 @@
 # Algorithm
-2016 summer Algorithm Study
+##2016 summer Algorithm Study
+### Baekjoon Algorithm
+- 1002 - 터렛
+- 1037 - 약수
+- 1149 - RGB거리
+- 1309 - 동물원
+- 1725 - 히스토그램
+- 1931 - 회의실배정
+- 1932 - 숫자삼각형
+- 1977 - 완전제곱수
+- 1992 - 쿼드트리
+- 2293 - 동전 1
+- 2294 - 동전 2
+- 9251 - LCS
+- 9252 - LCS2
